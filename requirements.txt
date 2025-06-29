@@ -1,0 +1,9 @@
+pandas
+numpy
+re
+nltk
+nltk.corpus
+matplotlib.pyplot as plt
+seaborn as sns
+collections
+wordcloud
