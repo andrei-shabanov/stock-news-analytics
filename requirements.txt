@@ -3,8 +3,9 @@ numpy
 re
 nltk
 nltk.corpus
-matplotlib.pyplot as plt
-seaborn as sns
+matplotlib.pyplot
+seaborn
 collections
 wordcloud
 wordninja
+scikit-learn
