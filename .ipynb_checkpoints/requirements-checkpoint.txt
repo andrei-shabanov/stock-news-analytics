@@ -1,11 +1,8 @@
 pandas
 numpy
-re
 nltk
-nltk.corpus
-matplotlib.pyplot
+matplotlib
 seaborn
-collections
 wordcloud
 wordninja
 scikit-learn
