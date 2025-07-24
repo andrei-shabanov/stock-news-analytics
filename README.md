@@ -1,4 +1,5 @@
 # Projekt „Börse Analytics“
+### Berke Ari, Martin Matuschinski, Andrei Shabanov, Muhammed Mehmet Tanit
 
 ## 1. Business Understanding
 - Ziel: Entwicklung eines Börse-Analytics-Modells zur Vorhersage der NASDAQ-Kursentwicklung basierend auf englischsprachigen Finanznachrichten.
