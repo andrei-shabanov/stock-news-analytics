@@ -1,5 +1,13 @@
 # Projekt „Börse Analytics“
-## Berke Ari, Martin Matuschinski, Andrei Shabanov, Muhammed Mehmet Tanit
+### Berke Ari, Martin Matuschinski, Andrei Shabanov, Muhammed Mehmet Tanit
+
+## Übersicht der Inhalte: 
+- In der MEADME.md findet man die allgemeine Informationen zum Projekt.
+- Der Code ist nach den Projektstufen gegliedert:
+- - 1_data_load: Hochladen der Daten
+- - 2_data_preparation: Datenvorbereitung; das Ergebnis ist in merged_df.csv gespeichert
+- - 3_data_exploration: explorative Datenanalyse
+- - alle 4_... Dateien: die entwickelten Modelle
 
 ## 1. Business Understanding
 - Ziel: Entwicklung eines Börse-Analytics-Modells zur Vorhersage der NASDAQ-Kursentwicklung basierend auf englischsprachigen Finanznachrichten.
@@ -7,7 +15,7 @@
 
 ## 2. Data Understanding
 - Ein Web Scraper wird entwickelt, um tägliche NASDAQ-Kurswerte zu sammeln (für Modell-Evaluation).
-- Daraus werden Kursänderungen abgeleitet (Label bis 24.06 – Andrei).
+- Daraus werden Kursänderungen abgeleitet.
 - Erste explorative Analyse: Anzahl der Nachrichten, Textlängen, Schlagwörter, einfache Korrelationen (Berke).
 
 ## 3. Data Preparation (Muhammed)
