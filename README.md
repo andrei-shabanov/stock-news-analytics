@@ -1,5 +1,4 @@
 # Projekt „Börse Analytics“
-### Berke Ari, Martin Matuschinski, Andrei Shabanov, Muhammed Mehmet Tanit
 
 ## Übersicht der Inhalte: 
 - In der MEADME.md findet man die allgemeine Informationen zum Projekt.
@@ -18,11 +17,11 @@
 - Daraus werden Kursänderungen abgeleitet.
 - Erste explorative Analyse: Anzahl der Nachrichten, Textlängen, Schlagwörter, einfache Korrelationen (Berke).
 
-## 3. Data Preparation (Muhammed)
+## 3. Data Preparation
 - Reinigung der Nachrichtentexte.
 - Teilweise Labelung: positive, negative oder schwankende Kursentwicklung.
 
-## 4. Data Modelling (Martin / Andrei)
+## 4. Data Modelling 
 - Entwicklung eines Modells zur Label-Vorhersage.
 - Optional: ergänzendes Optimierungsmodell.
 
